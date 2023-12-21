@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnankhan29" alt="adnankhan29" /></a> </p>
 
-- 🔭 I’m currently working on [BLOGLY](https://github.com/AdnanKhan29/BLOGLY.git)
+- 🔭 I’m currently working on [POKEDEX](https://github.com/AdnanKhan29/BLOGLY.git)
 
-- 🌱 I’m currently learning **FrontEnd, Blender, Flutter**
+- 🌱 I’m currently learning ** FIGMA **
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdnanKhan29](https://github.com/AdnanKhan29)
 
