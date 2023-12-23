@@ -5,8 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AdnanKhan29.AdnanKhan29)
-
 # 💫 About Me:
 🔭 I’m currently working on FIGMA-POKEDEX<br>👯 I’m looking to collaborate on Figma<br>🌱 I’m currently learning UI Designing<br>💬 Ask me about FrontEnd, Figma
 
