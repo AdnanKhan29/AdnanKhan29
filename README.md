@@ -4,7 +4,7 @@
 <p align='center'>
 
 # 💫 About Me:
-🔭 I’m currently working on FIGMA-JAPAN_TOURISM, and Car Rental WEBSITE<br>👯 I’m looking to collaborate on Figma<br>🌱 I’m currently learning UI Designing in Figma<br>💬 Ask me about FrontEnd, Figma, Wireframing
+🔭 I’m currently working on FIGMA-JAPAN_TOURISM, and Car Rental website<br>👯 I’m looking to collaborate on Figma<br>🌱 I’m currently learning UI Designing in Figma<br>💬 Ask me about FrontEnd, Figma, Wireframing
 
 
 ## 🌐 Socials:
